@@ -9,7 +9,7 @@ public class HomeController {
 	
 	@RequestMapping("/msg")
 	public String message() {
-		return "Hello from SpringB";
+		return "Hello from SpringB 2.0";
 	}
 
 }
